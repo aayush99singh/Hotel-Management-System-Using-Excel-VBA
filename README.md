@@ -1,4 +1,4 @@
-# VBA-hotel-management-system
+# Hotel-Management-System-Using-Excel-VBA
 
 1. This project is fully based on VBA codes. Some pictures of the excel Dashboard has also been attached with the folder. 
 
