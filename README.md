@@ -1,12 +1,14 @@
 # Hotel-Management-System-Using-Excel-VBA
 
-1. This project is fully based on VBA codes. Some pictures of the excel Dashboard has also been attached with the folder. 
+– Code Repo for Hotel Management System Using Excel VBA Project
 
-2. Please Extract the file before use.
+– This project is fully based on VBA codes. Some pictures of the excel Dashboard has also been attached with the folder. 
 
-3. Enable the macros before getting started.
+– Please Extract the file before use.
 
-4. Some data has already been added in the Data Sheet. You can practise usign those data. 
+– Enable the macros before getting started.
 
-5. Automatic Inovice generator is also added.  
+– Some data has already been added in the Data Sheet. You can practise usign those data. 
+
+– Automatic Inovice generator is also added.  
 
