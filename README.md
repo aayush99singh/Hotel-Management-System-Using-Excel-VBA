@@ -1,4 +1,4 @@
-# Hotel-Management-System-Using-Excel-VBA
+# Hotel Management System Using Excel VBA
 
 – Code Repo for Hotel Management System Using Excel VBA Project
 
