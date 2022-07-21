@@ -10,5 +10,5 @@
 
 – Some data has already been added in the Data Sheet. You can practise usign those data. 
 
-– Automatic Inovice generator is also added.  
+– Automatic Inovice generator is also added.
 
